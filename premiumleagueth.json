@@ -1,6 +1,6 @@
 {
 	"Name": "PREMIUMLEAGUETH",
-	"Version": 1751888669,
+	"Version": 1751976438,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND TOURNAMENT PREMIUMLEAGUE SEASON 5 THE FINAL SEASON",
 	"Tiers": [
@@ -821,10 +821,10 @@
 		},
 		{
 			"Name": "The Doctor",
-			"KillerNotes": "Map\nFamily Residence 1",
+			"KillerNotes": "Map\nWreckers' Yard",
 			"IsDisabled": false,
 			"Map": [
-				"29"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
