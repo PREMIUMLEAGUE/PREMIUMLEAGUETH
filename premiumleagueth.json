@@ -1,6 +1,6 @@
 {
 	"Name": "PREMIUMLEAGUETH",
-	"Version": 1751976438,
+	"Version": 1752074665,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND TOURNAMENT PREMIUMLEAGUE SEASON 5 THE FINAL SEASON",
 	"Tiers": [
@@ -58,6 +58,7 @@
 				"116",
 				"120",
 				"124",
+				"126",
 				"254",
 				"130"
 			],
@@ -2549,10 +2550,10 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "MAP\nDead Dawg Saloon",
+			"KillerNotes": "MAP\nIronworks of Misery II",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"44"
 			],
 			"BalanceTiers": [
 				0,
