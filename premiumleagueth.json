@@ -1,6 +1,6 @@
 {
 	"Name": "PREMIUMLEAGUETH",
-	"Version": 1752410272,
+	"Version": 1752713553,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND TOURNAMENT PREMIUMLEAGUE SEASON 5 THE FINAL SEASON",
 	"Tiers": [
@@ -8,6 +8,7 @@
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
 				"3",
+				"285",
 				"6",
 				"7",
 				"258",
@@ -23,6 +24,8 @@
 				"23",
 				"60",
 				"27",
+				"286",
+				"288",
 				"33",
 				"40",
 				"43",
@@ -36,6 +39,7 @@
 				"274",
 				"252",
 				"59",
+				"289",
 				"66",
 				"67",
 				"73",
@@ -57,6 +61,8 @@
 				"263",
 				"253",
 				"116",
+				"290",
+				"287",
 				"120",
 				"124",
 				"126",
@@ -178,6 +184,7 @@
 				"38",
 				"57",
 				"69",
+				"72",
 				"76",
 				"80",
 				"89",
@@ -189,8 +196,8 @@
 				"128"
 			],
 			"KillerIndvPerkBans": [
-				"151",
-				"170"
+				"170",
+				"151"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -213,6 +220,7 @@
 				"57",
 				"61",
 				"69",
+				"72",
 				"76",
 				"80",
 				"89",
@@ -255,6 +263,7 @@
 				"61",
 				"65",
 				"69",
+				"72",
 				"76",
 				"80",
 				"89",
