@@ -1,6 +1,6 @@
 {
 	"Name": "PREMIUMLEAGUETH",
-	"Version": 1753516748,
+	"Version": 1753554925,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND TOURNAMENT PREMIUMLEAGUE SEASON 5 THE FINAL SEASON",
 	"Tiers": [
@@ -2755,9 +2755,9 @@
 				778
 			],
 			"ItemWhitelist": [
-				10,
 				5,
-				0
+				0,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2772,7 +2772,10 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						10,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
