@@ -1,6 +1,6 @@
 {
 	"Name": "PREMIUMLEAGUETH",
-	"Version": 1753368460,
+	"Version": 1753516748,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND TOURNAMENT PREMIUMLEAGUE SEASON 5 THE FINAL SEASON",
 	"Tiers": [
@@ -2659,7 +2659,9 @@
 				"157"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"127"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
