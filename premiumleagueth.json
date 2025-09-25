@@ -1,6 +1,6 @@
 {
 	"Name": "PREMIUMLEAGUETH",
-	"Version": 1754883161,
+	"Version": 1758800537,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND TOURNAMENT PREMIUMLEAGUE SEASON 5 THE FINAL SEASON",
 	"Tiers": [
@@ -35,6 +35,7 @@
 				"267",
 				"46",
 				"49",
+				"294",
 				"262",
 				"55",
 				"274",
@@ -45,6 +46,7 @@
 				"67",
 				"73",
 				"74",
+				"295",
 				"77",
 				"81",
 				"83",
@@ -53,6 +55,7 @@
 				"88",
 				"281",
 				"90",
+				"296",
 				"98",
 				"100",
 				"275",
@@ -99,6 +102,7 @@
 				"175",
 				"177",
 				"277",
+				"291",
 				"178",
 				"180",
 				"183",
@@ -112,12 +116,14 @@
 				"284",
 				"209",
 				"211",
+				"292",
 				"216",
 				"272",
 				"225",
 				"227",
 				"235",
 				"238",
+				"293",
 				"257",
 				"242"
 			],
@@ -2903,6 +2909,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Krasue",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
