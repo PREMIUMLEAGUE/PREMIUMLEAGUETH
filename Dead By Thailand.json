@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Thailand",
-	"Version": 1787505529,
+	"Version": 1787735444,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "DEAD BY DAYLIGHT THAILAND",
 	"Tiers": [
@@ -1149,6 +1149,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
+				"8",
 				"10",
 				"246",
 				"38",
@@ -1773,6 +1774,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"6",
 				"39",
 				"44",
 				"308",
